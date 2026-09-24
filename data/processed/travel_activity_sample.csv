@@ -1,0 +1,21 @@
+travel_id,employee_id,travel_date,travel_type,vehicle_type,distance,activity_unit,purpose,origin_state,destination_state
+1,E1001,2025-01-06,Employee Commuting,Passenger Car,18.4,vehicle-mile,Commute,California,California
+2,E1002,2025-01-07,Employee Commuting,"Transit Rail (i.e. Subway, Tram)",12.0,passenger-mile,Commute,California,California
+3,E1003,2025-01-08,Business Travel,"Air Travel - Medium Haul (>= 300 miles, < 2300 miles)",1250.0,passenger-mile,Client Meeting,California,New York
+4,E1004,2025-01-09,Employee Commuting,Light-Duty Truck,24.7,vehicle-mile,Commute,Texas,Texas
+5,E1005,2025-01-10,Business Travel,Intercity Rail - Northeast Corridor,190.0,passenger-mile,Client Meeting,New York,Massachusetts
+6,E1006,2025-01-13,Employee Commuting,Bus,9.8,passenger-mile,Commute,California,California
+7,E1007,2025-01-14,Business Travel,Air Travel - Short Haul (< 300 miles),210.0,passenger-mile,Conference,California,Nevada
+8,E1008,2025-01-15,Employee Commuting,Passenger Car,31.2,vehicle-mile,Commute,Washington,Washington
+9,E1009,2025-01-16,Business Travel,Intercity Rail - Other Routes,420.0,passenger-mile,Client Meeting,California,California
+10,E1010,2025-01-17,Employee Commuting,Commuter Rail,18.5,passenger-mile,Commute,New York,New York
+11,E1011,2025-01-21,Business Travel,Air Travel - Long Haul (>= 2300 miles),2780.0,passenger-mile,Conference,California,Massachusetts
+12,E1012,2025-01-22,Employee Commuting,Motorcycle,16.3,vehicle-mile,Commute,Florida,Florida
+13,E1013,2025-01-23,Business Travel,Bus,22.0,passenger-mile,Off-site Meeting,Illinois,Illinois
+14,E1014,2025-01-24,Employee Commuting,Passenger Car,27.9,vehicle-mile,Commute,California,California
+15,E1015,2025-01-27,Business Travel,Light-Duty Truck,48.2,vehicle-mile,Site Visit,Texas,Texas
+16,E1016,2025-01-28,Business Travel,Intercity Rail - National Average,350.0,passenger-mile,Client Meeting,California,Colorado
+17,E1017,2025-01-29,Employee Commuting,Passenger Car,14.6,vehicle-mile,Commute,California,California
+18,E1018,2025-01-30,Employee Commuting,"Transit Rail (i.e. Subway, Tram)",18.5,passenger-mile,Commute,New York,New York
+19,E1019,2025-01-31,Business Travel,"Air Travel - Medium Haul (>= 300 miles, < 2300 miles)",850.0,passenger-mile,Conference,California,Texas
+20,E1020,2025-02-03,Employee Commuting,Passenger Car,22.5,vehicle-mile,Commute,California,California

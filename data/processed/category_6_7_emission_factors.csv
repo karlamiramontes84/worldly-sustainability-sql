@@ -1,0 +1,13 @@
+vehicle_type,co2_factor_kg,ch4_factor_g,n2o_factor_g,activity_unit,category,source_year
+Passenger Car,0.297,0.0059,0.0053,vehicle-mile,Scope 3 Category 6/7,2025
+Light-Duty Truck,0.394,0.0109,0.0088,vehicle-mile,Scope 3 Category 6/7,2025
+Motorcycle,0.368,0.0888,0.0188,vehicle-mile,Scope 3 Category 6/7,2025
+Intercity Rail - Northeast Corridor,0.023,0.001,0.0001,passenger-mile,Scope 3 Category 6/7,2025
+Intercity Rail - Other Routes,0.149,0.012,0.004,passenger-mile,Scope 3 Category 6/7,2025
+Intercity Rail - National Average,0.096,0.008,0.002,passenger-mile,Scope 3 Category 6/7,2025
+Commuter Rail,0.133,0.0105,0.0026,passenger-mile,Scope 3 Category 6/7,2025
+"Transit Rail (i.e. Subway, Tram)",0.093,0.0075,0.001,passenger-mile,Scope 3 Category 6/7,2025
+Bus,0.066,0.0046,0.0019,passenger-mile,Scope 3 Category 6/7,2025
+Air Travel - Short Haul (< 300 miles),0.207,0.0064,0.0066,passenger-mile,Scope 3 Category 6/7,2025
+"Air Travel - Medium Haul (>= 300 miles, < 2300 miles)",0.129,0.0006,0.0041,passenger-mile,Scope 3 Category 6/7,2025
+Air Travel - Long Haul (>= 2300 miles),0.163,0.0006,0.0052,passenger-mile,Scope 3 Category 6/7,2025
